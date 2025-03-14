@@ -11,7 +11,7 @@ stages:
 build-job:
   stage: build
   script:
-  - echo "Compiling the code..."
+  - echo "Compiling the code...sud was there"
   - echo "Compiling completed now.....sud is here"
 unit-test-job:
   stage: test
